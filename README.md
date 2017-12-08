@@ -1,1 +1,1 @@
-# WeCashUp-php
+This 2 pieces of code are written to enable the merchant to confirm and save transactions informations and redirect the clients to confirmation page.
